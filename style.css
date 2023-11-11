@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+.hypefood{
+    width: 900px;
+    border-radius: 50px;
+}
+
+header{
+    background-color: lightblue;
+    border-radius: 40px;
+}
+
+header img{
+    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+}
+
+main a{
+    background-color: lightblue;
+    border-radius: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black
+}
